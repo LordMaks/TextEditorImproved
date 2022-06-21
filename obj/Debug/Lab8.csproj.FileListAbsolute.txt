@@ -1,0 +1,35 @@
+D:\VS\SP 2022\Lab8 - TextEditor\bin\Debug\TextEditor.exe.config
+D:\VS\SP 2022\Lab8 - TextEditor\bin\Debug\TextEditor.exe
+D:\VS\SP 2022\Lab8 - TextEditor\bin\Debug\TextEditor.pdb
+D:\VS\SP 2022\Lab8 - TextEditor\bin\Debug\MaterialDesignColors.dll
+D:\VS\SP 2022\Lab8 - TextEditor\bin\Debug\MaterialDesignColors.pdb
+D:\VS\SP 2022\Lab8 - TextEditor\obj\Debug\Lab8.csproj.AssemblyReference.cache
+D:\VS\SP 2022\Lab8 - TextEditor\obj\Debug\MainWindow.g.cs
+D:\VS\SP 2022\Lab8 - TextEditor\obj\Debug\App.g.cs
+D:\VS\SP 2022\Lab8 - TextEditor\obj\Debug\TextEditor_MarkupCompile.cache
+D:\VS\SP 2022\Lab8 - TextEditor\obj\Debug\TextEditor_MarkupCompile.lref
+D:\VS\SP 2022\Lab8 - TextEditor\obj\Debug\MainWindow.baml
+D:\VS\SP 2022\Lab8 - TextEditor\obj\Debug\TextEditor.g.resources
+D:\VS\SP 2022\Lab8 - TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+D:\VS\SP 2022\Lab8 - TextEditor\obj\Debug\Lab8.csproj.GenerateResource.cache
+D:\VS\SP 2022\Lab8 - TextEditor\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+D:\VS\SP 2022\Lab8 - TextEditor\obj\Debug\TextEditor.exe
+D:\VS\SP 2022\Lab8 - TextEditor\obj\Debug\TextEditor.pdb
+C:\Programming\prog2022\TextEditor_2.0\bin\Debug\TextEditor.exe.config
+C:\Programming\prog2022\TextEditor_2.0\bin\Debug\TextEditor.exe
+C:\Programming\prog2022\TextEditor_2.0\bin\Debug\TextEditor.pdb
+C:\Programming\prog2022\TextEditor_2.0\bin\Debug\MaterialDesignColors.pdb
+C:\Programming\prog2022\TextEditor_2.0\obj\Debug\Lab8.csproj.AssemblyReference.cache
+C:\Programming\prog2022\TextEditor_2.0\obj\Debug\Lab8.csproj.SuggestedBindingRedirects.cache
+C:\Programming\prog2022\TextEditor_2.0\obj\Debug\MainWindow.g.cs
+C:\Programming\prog2022\TextEditor_2.0\obj\Debug\App.g.cs
+C:\Programming\prog2022\TextEditor_2.0\obj\Debug\TextEditor_MarkupCompile.cache
+C:\Programming\prog2022\TextEditor_2.0\obj\Debug\TextEditor_MarkupCompile.lref
+C:\Programming\prog2022\TextEditor_2.0\obj\Debug\MainWindow.baml
+C:\Programming\prog2022\TextEditor_2.0\obj\Debug\TextEditor.g.resources
+C:\Programming\prog2022\TextEditor_2.0\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Programming\prog2022\TextEditor_2.0\obj\Debug\Lab8.csproj.GenerateResource.cache
+C:\Programming\prog2022\TextEditor_2.0\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\Programming\prog2022\TextEditor_2.0\obj\Debug\Lab8.csproj.CopyComplete
+C:\Programming\prog2022\TextEditor_2.0\obj\Debug\TextEditor.exe
+C:\Programming\prog2022\TextEditor_2.0\obj\Debug\TextEditor.pdb
